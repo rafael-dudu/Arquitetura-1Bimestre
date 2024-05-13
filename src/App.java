@@ -1,5 +1,3 @@
-import Main.Main;
-
 public class App {
   public static void main(String[] args) throws Exception {
     Main mn0 = new Main("#0");
@@ -60,3 +58,4 @@ public class App {
     System.out.println("Fim do codigo");
   }
 }
+
